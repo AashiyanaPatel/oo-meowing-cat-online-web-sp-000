@@ -20,4 +20,5 @@ class Cat
   
   maru = Cat.new
   maru.meow = "meow!"
+end
 
